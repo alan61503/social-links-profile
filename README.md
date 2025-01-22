@@ -18,11 +18,6 @@ A beautifully designed social links profile card that displays your essential pe
 - **CSS3**: For styling and adding hover effects.
 - **Google Fonts**: To include the 'Inter' font for a clean, professional appearance.
 
-## 🎨 Preview
-
-![Mobile View](mobile-preview.png) <!-- Add mobile-specific preview screenshot -->
-![Desktop View](desktop-preview.png) <!-- Add desktop-specific preview screenshot -->
-
 🌟 Future Enhancements
 Add animations to buttons for more interactive hover effects.
 
